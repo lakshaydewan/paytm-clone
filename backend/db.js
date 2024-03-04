@@ -3,7 +3,7 @@
 const mongoose = require("mongoose");
 
 
-mongoose.connect("mongodb+srv://laxhay666:dDkpwYFS21kdElQ8@cluster0.cqfjaws.mongodb.net/users");
+mongoose.connect("You're mongoDB url here");
 
 // creating a mongoose schema
 /* 
